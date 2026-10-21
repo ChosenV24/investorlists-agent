@@ -1,0 +1,20 @@
+{
+  "name": "investorlists",
+  "displayName": "InvestorLists",
+  "version": "0.3.3",
+  "description": "The InvestorLists agent for founders raising capital: your raise profile, investor shortlists from the InvestorLists database with a sourced reason for each firm, investor briefs, the path to connect with each firm, investor messages written for you, and a memory of where every investor stands.",
+  "author": {
+    "name": "InvestorLists.vc",
+    "email": "office@investorlists.vc",
+    "url": "https://investorlists.vc"
+  },
+  "homepage": "https://investorlists.vc/ai",
+  "repository": "https://github.com/ChosenV24/investorlists-agent",
+  "license": "Proprietary",
+  "keywords": ["investors", "venture capital", "fundraising", "startup", "seed", "pre-seed", "outreach", "investorlists"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://investorlists.vc/ai",
+  "supportUrl": "https://investorlists.vc/ai",
+  "privacyPolicyUrl": "https://investorlists.vc/terms-of-service-and-privacy-policy#privacy",
+  "termsOfServiceUrl": "https://investorlists.vc/terms-of-service-and-privacy-policy#terms"
+}
