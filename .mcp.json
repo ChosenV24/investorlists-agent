@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "investorlists": {
+      "type": "http",
+      "url": "https://investorlists.vc/mcp"
+    }
+  }
+}
