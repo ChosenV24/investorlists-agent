@@ -39,7 +39,6 @@ The agent asks for your website, a deck and your LinkedIn profile URL, drafts yo
 | `skills/il-path-to-connect` | Path to Connect: warm paths and direct paths to one firm, with a recommended first move. |
 | `skills/il-messages` | Investor Messages: your message set and the messages for one investor and path. |
 | `skills/il-pipeline` | Raise Pipeline: the agent's memory, read from your notes. Includes `scripts/parse_notes.py`. |
-| `assets/icon.png` | The listing icon. |
 
 ## What it connects to
 
