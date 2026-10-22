@@ -1,7 +1,7 @@
 {
   "name": "investorlists",
   "displayName": "InvestorLists",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "The InvestorLists agent for founders raising capital: your raise profile, investor shortlists from the InvestorLists database with a sourced reason for each firm, investor briefs, the path to connect with each firm, investor messages written for you, and a memory of where every investor stands.",
   "author": {
     "name": "InvestorLists.vc",
